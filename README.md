@@ -1,8 +1,6 @@
 ## Olá! Eu sou a Hanna Reckziegel 
 
-- 📚 Ciência da computação - UNISC
-- 📧 hannareck07@gmail.com
-- 🔗  
+- 📚 Ciência da computação - UNISC 
 - ⚡
 
 ### 📊 Stats
