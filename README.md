@@ -1,4 +1,4 @@
-## Hi! I"m Hanna Reckziegel 
+## Hi! I'm Hanna Reckziegel 
 
 - 📚 Computer Science
 - ⚡Interested in everything for now
