@@ -1,7 +1,7 @@
-## Olá! Eu sou a Hanna Reckziegel 
+## Hi! I"m Hanna Reckziegel 
 
-- 📚 Ciência da computação - UNISC 
-- ⚡
+- 📚 Computer Science
+- ⚡Interested in everything for now
 
 ### 📊 Stats
 
