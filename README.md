@@ -1,7 +1,7 @@
 ## Hi! I'm Hanna Reckziegel 
 
 - 📚 Computer Science
-- ⚡Interested in everything for now
+- ⚡Interested in cybersecurity, AI and software engineering
 
 ### 📊 Stats
 
