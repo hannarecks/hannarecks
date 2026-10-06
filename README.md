@@ -1,7 +1,7 @@
 ## Hi! I'm Hanna Reckziegel 
 
 - 📚 Computer Science
-- 👩‍💻 Interested in cybersecurity, AI and back-end development
+- 👩‍💻 Interested in AI, Cybersecurity, Software Security and Information Security
 
 ## ⚡Tech Stack
 ### 💻 Languages
